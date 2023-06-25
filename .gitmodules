@@ -1,3 +1,6 @@
 [submodule "neetcode"]
 	path = neetcode
 	url = git@github.com:1112zakaria/neetcode.git
+[submodule "advent-of-code-2022"]
+	path = advent-of-code-2022
+	url = git@github.com:1112zakaria/advent-of-code-2022.git
